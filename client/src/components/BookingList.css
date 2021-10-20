@@ -1,0 +1,10 @@
+#bookings-list {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    margin: 0 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    overflow-x: scroll;
+    padding: 10px;
+}

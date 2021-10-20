@@ -5,7 +5,13 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: URL('https://www.thebalancecareers.com/thmb/hBfT1WsmAohU1FJBmpA0-oYZ8_k=/950x0/filters:max_bytes(150000):strip_icc():format(webp)/front_desk-960555428-5bae87d84cedfd00269b2b8c.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
 }
+
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
